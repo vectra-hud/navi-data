@@ -30847,14 +30847,15 @@
   },
   {
     "id": "31296943",
-    "name": "芝公園出口",
-    "name_en": "Shibakoen Exit",
-    "lat": 35.654471,
-    "lng": 139.745903,
+    "name": "芝公園",
+    "name_en": "Shibakoen",
+    "lat": 35.654537,
+    "lng": 139.745983,
     "type": "IC",
-    "route_name": "芝公園出口, C1",
+    "route_name": "芝公園, C1",
     "is_loop": true,
-    "node_order": 0
+    "node_order": 0,
+    "isInner": true
   },
   {
     "id": "31297556",
@@ -30880,14 +30881,15 @@
   },
   {
     "id": "31295430",
-    "name": "芝公園入口",
-    "name_en": "Shibakoen Entry",
+    "name": "芝公園",
+    "name_en": "Shibakoen",
     "lat": 35.65291,
     "lng": 139.748918,
     "type": "IC",
     "route_name": "C1",
     "is_loop": true,
-    "node_order": 0
+    "node_order": 0,
+    "isInner": true
   },
   {
     "id": "31252942",
@@ -31096,9 +31098,10 @@
     "lat": 35.638218,
     "lng": 139.887366,
     "type": "IC",
-    "route_name": "B",
+    "route_name": "首都高湾岸線",
     "is_loop": false,
-    "node_order": 0
+    "node_order": 0,
+    "isInner": false
   },
   {
     "id": "253114169",
@@ -33665,7 +33668,7 @@
   },
   {
     "id": "252842772",
-    "name": "市川TB",
+    "name": "市川料金所",
     "name_en": "Ichikawa Toll Gate",
     "lat": 35.677917,
     "lng": 139.933812,
@@ -55441,8 +55444,8 @@
   },
   {
     "id": "31295430_copy_1793262372131",
-    "name": "芝公園入口",
-    "name_en": "Shibakoen Entry",
+    "name": "芝公園",
+    "name_en": "Shibakoen",
     "lat": 35.653471,
     "lng": 139.749907,
     "type": "IC",
@@ -55506,7 +55509,7 @@
     "type": "IC",
     "is_loop": false,
     "isInner": false,
-    "route_name": "",
+    "route_name": "首都高湾岸線",
     "node_order": 0,
     "lat": 35.63705,
     "lng": 139.882961

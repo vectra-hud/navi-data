@@ -52220,8 +52220,8 @@
     "id": "507860076",
     "name": "辰巳第一PA (上り)",
     "name_en": "Tatsumidaiichi PA (Inbound)",
-    "lat": 35.64385,
-    "lng": 139.808286,
+    "lat": 35.643718,
+    "lng": 139.808448,
     "type": "PA",
     "route_name": "9",
     "is_loop": false,
@@ -52231,8 +52231,8 @@
     "id": "490619001",
     "name": "辰巳第二PA (上り)",
     "name_en": "Tatsumidaini PA (Inbound)",
-    "lat": 35.644749,
-    "lng": 139.817241,
+    "lat": 35.644883,
+    "lng": 139.81665,
     "type": "PA",
     "route_name": "9",
     "is_loop": false,
@@ -55809,5 +55809,17 @@
     "is_loop": true,
     "node_order": 0,
     "isInner": true
+  },
+  {
+    "id": "2303445190_copy_1793872226913",
+    "name": "浦安",
+    "name_en": "Urayasu",
+    "lat": 35.639234,
+    "lng": 139.890386,
+    "type": "IC",
+    "route_name": "B",
+    "is_loop": false,
+    "node_order": 0,
+    "isInner": false
   }
 ]
